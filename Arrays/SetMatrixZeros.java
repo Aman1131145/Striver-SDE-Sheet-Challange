@@ -21,6 +21,7 @@ public class SetMatrixZeros {
             }
             System.out.println();
         }
+        sc.close();
     }
     public static void setZeroes(int[][] matrix) {
     
