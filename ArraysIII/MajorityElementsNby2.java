@@ -1,5 +1,3 @@
-package ArraysIII;
-
 public class MajorityElementsNby2 {
     public static int majorityElement(int[] v) {
         // size of the given array:

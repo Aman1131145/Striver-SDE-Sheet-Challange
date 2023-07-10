@@ -1,5 +1,3 @@
-package ArraysIII;
-
 import java.util.Scanner;
 
 public class GridUniquePaths {

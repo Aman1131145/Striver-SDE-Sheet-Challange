@@ -1,5 +1,3 @@
-package ArraysIII;
-
 import java.util.*;
 
 public class MajorityElementsNby3 {
